@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236661464248",
+    "project_id": "signtest-f7088",
+    "storage_bucket": "signtest-f7088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236661464248:android:1af214229fee87fb8e284d",
+        "android_client_info": {
+          "package_name": "com.lafimsize.googlesigntest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236661464248-lklnd8k3kqa64s2a2v97btg55jdfg071.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lafimsize.googlesigntest",
+            "certificate_hash": "19581510a3a39558a9661748aa5ce0e89afb2770"
+          }
+        },
+        {
+          "client_id": "236661464248-gv5vcoqb7uvo3e02fluqk9ebhjmfijp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn3EVDg_EBkhB7pym6um6pkbm1blRYiSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236661464248-gh50qklurhd0pqr1b2me8s8jrdi1qa5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
